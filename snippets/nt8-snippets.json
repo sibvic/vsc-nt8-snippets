@@ -1,0 +1,8 @@
+{
+    "test": {
+        "body": "test",
+        "description": "test",
+        "prefix": "test",
+        "scope": "source.cs"
+    }
+}

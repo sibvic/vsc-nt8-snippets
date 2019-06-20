@@ -1,0 +1,27 @@
+{
+    "name": "profitrobots-nt8-snippets",
+    "displayName": "ProfitRobots NT8 Snippets",
+    "description": "ProfitRobots Ninja Trader 8 Snippets for Visual Studio Code",
+    "homepage": "https://github.com/sibvic/vsc-nt8-snippets",
+    "version": "1.0.0",
+    "publisher": "sibvic",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "cs",
+                "path": "./snippets/nt8-snippets.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sibvic/vsc-nt8-snippets.git"
+    }
+}
